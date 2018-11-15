@@ -23,3 +23,15 @@ _Honors Assignments_
 1. [Hadoop Streaming assignment 3: Name Count](course1-big-data-esentials/c01w03_NameCountTask3.ipynb)
 1. [Hadoop Streaming assignment 4: Word Groups](course1-big-data-esentials/c01w03_WordGroupsTask4.ipynb)
 1. [Spark assignment 2: Collocations](course1-big-data-esentials/c01w05_CollocationTask2.ipynb)
+
+### [Big Data Analysis Hive, Spark SQL, DataFrames and GraphFrames](https://www.coursera.org/learn/big-data-analysis/home/welcome)
+
+1. [Week 2 Demo Assignment](course2-big-data-analysis/c02w02-Demo.ipynb)
+1. [Hive Assignment 1. DDL: Create Tables](course2-big-data-analysis/c02w02-Hive_Assignment_1.ipynb)
+1. [Hive Assignment 2. DML: Find Most Popular Tags](course2-big-data-analysis/c02w02-Hive_Assignment_2.ipynb)
+1. [Week 4 Demo Assignment](course2-big-data-analysis/c02w04-Demo.ipynb)
+1. [Counting number of the mutual friends](course2-big-data-analysis/c02w04-Mutal-Friends.ipynb)
+
+_Honors Assignments_
+
+1. [Hive Assignment 3. DML: Calculate Amount of Posts per User Age](course2-big-data-analysis/c02w02-Hive_Assignment_3.ipynb)
