@@ -31,7 +31,16 @@ _Honors Assignments_
 1. [Hive Assignment 2. DML: Find Most Popular Tags](course2-big-data-analysis/c02w02-Hive_Assignment_2.ipynb)
 1. [Week 4 Demo Assignment](course2-big-data-analysis/c02w04-Demo.ipynb)
 1. [Counting number of the mutual friends](course2-big-data-analysis/c02w04-Mutal-Friends.ipynb)
-
+1. [Week 5 Demo Assignment](course2-big-data-analysis/c02w05-Demo.ipynb)
+1. [Graph based Music Recommender. Task 1](course2-big-data-analysis/c02w05_GraphBasedMusicRecommenderTask1.ipynb)
+1. [Graph based Music Recommender. Task 2](course2-big-data-analysis/c02w05_GraphBasedMusicRecommenderTask2.ipynb)
+1. [Graph based Music Recommender. Task 3](course2-big-data-analysis/c02w05_GraphBasedMusicRecommenderTask3.ipynb)
+1. [Graph based Music Recommender. Task 4](course2-big-data-analysis/c02w05_GraphBasedMusicRecommenderTask4.ipynb)
+1. [Week 6 Demo Assignment](course2-big-data-analysis/c02w06-Demo.ipynb)
+1. [Breadth-first search in Spark SQL](course2-big-data-analysis/c02w06_BFS_Spark_SQL.ipynb)
+ 
 _Honors Assignments_
 
 1. [Hive Assignment 3. DML: Calculate Amount of Posts per User Age](course2-big-data-analysis/c02w02-Hive_Assignment_3.ipynb)
+1. [Graph based Music Recommender. Task 5](course2-big-data-analysis/c02w05_GraphBasedMusicRecommenderTask5.ipynb)
+1. [Graph based Music Recommender. Task 6](course2-big-data-analysis/c02w05_GraphBasedMusicRecommenderTask6.ipynb)
